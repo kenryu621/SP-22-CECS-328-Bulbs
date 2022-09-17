@@ -1,2 +1,0 @@
-def solve(bulbs):
-    pass
